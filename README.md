@@ -19,7 +19,7 @@ Instructions -
 
 8 - Then register user and generate token by authenticating the user using SWAGGER URL -> http://localhost:8011/swagger-ui.html#/ .
 
-9 - Add Authorization token to the swagger (present in top right corner) -> Bearer <Token value>.
+9 - Add Authorization token to the swagger (present in top right corner) -> Bearer < Token value >.
 
 10- Now you can directly access API's createTrain, BookTrain, GetAll train Etc api as token is added to the header in every request by the swagger(swagger takes care
     of the authorization once the token is added to it).
