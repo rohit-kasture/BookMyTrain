@@ -2,7 +2,7 @@
 
 Instructions -
 
-1 - Start Eureka Microservice first.
+1 - Start Eureka-Server Microservice first.
 
 2 - Start ActiveMq server using command from the bin folder in the ActiveMq folder. > activemq start
 
