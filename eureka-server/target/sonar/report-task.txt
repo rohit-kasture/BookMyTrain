@@ -1,0 +1,6 @@
+projectKey=com.example:eureka-server
+serverUrl=http://localhost:9999
+serverVersion=8.6.0.39681
+dashboardUrl=http://localhost:9999/dashboard?id=com.example%3Aeureka-server
+ceTaskId=AXa4VBOQFwipk1wNu4hb
+ceTaskUrl=http://localhost:9999/api/ce/task?id=AXa4VBOQFwipk1wNu4hb
