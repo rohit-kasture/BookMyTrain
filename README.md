@@ -12,7 +12,7 @@ Instructions -
 
 5 - Open Sonar Qube in the browser -> http://localhost:9999/projects. [Note - > I have update sonar.web.url =9999 so my Sonar application running in the port 9999.]
 
-6 - Use MySql Workbench database and create databases for Users, Insurance, Payment, Ticket and Train.
+6 - Use MySql database Workbench and create databases for Users, Insurance, Payment, Ticket and Train.
           use sql command -> create database <database name>
 
 7 - Table will be autocreated once the database created as we are using spring-data-jpa.
