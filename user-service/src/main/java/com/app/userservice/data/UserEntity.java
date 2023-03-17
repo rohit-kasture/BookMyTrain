@@ -8,6 +8,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+
 @Entity
 @Table(name = "Users")
 public class UserEntity implements Serializable {
